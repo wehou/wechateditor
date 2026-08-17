@@ -1470,8 +1470,6 @@ function separator() {
 const FONT_COLORS = [
   '#1a1a1a', '#737373', '#dc2626', '#ea580c', '#ca8a04', '#16a34a', '#299480',
   '#0ea5e9', '#6366f1', '#8b5cf6', '#d946ef', '#ec4899', '#fb7185', '#a3a3a3',
-  '#fef3c7', '#fed7aa', '#fecaca', '#fecdd3', '#fbcfe8', '#ddd6fe', '#bfdbfe',
-  '#a7f3d0', '#fef9c3', '#ffffff',
 ];
 
 function buildFlatColorRow(badge, badgeVariant, items, action) {
